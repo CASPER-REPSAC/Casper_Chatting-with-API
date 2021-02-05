@@ -1,6 +1,12 @@
 Casper_Chatting-with-API
 ===========================
 
+### 목적
+
+채팅 서버 구현, API 연동
+
+---
+
 ### Frontend - P4wn04178
 ### Backend - gsniper777
 
