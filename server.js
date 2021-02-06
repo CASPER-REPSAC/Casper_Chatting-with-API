@@ -6,9 +6,10 @@ const session = require('express-session');
 const router = express.Router();
 //const passport = require('passport');
 
-/*  DB require  */
+/*  DB require  
 const {chat} = require('./models/chatSch');
 const db = require('./db');
+*/
 
 server.use(express.json()); //json 
 server.set("view engine", "ejs");
