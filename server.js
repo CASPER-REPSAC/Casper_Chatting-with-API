@@ -25,8 +25,8 @@ server.get('/',(req,res)=>{ // "views/index.ejs" is main page
     res.render('index');
 });
 
-server.get('/register',(req,res)=>{  // "views/register.ejs" is register page"
-    res.render('register');
+server.get('/join',(req,res)=>{  // "views/register.ejs" is register page"
+    res.render('join');
 });
 
 server.listen("8000",() =>{

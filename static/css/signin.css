@@ -26,9 +26,9 @@ body {
 
 .form-signin {
   vertical-align: middle;
-  background-color: yellow;
-  border: 2px solid black;
-  border-radius: 5px;
+  background-color: #F7E600;
+  border: 1px solid black;
+  border-radius: 3px;
   width: 100%;
   height: 600px;
   max-width: 400px;
@@ -69,6 +69,21 @@ p.footer {
   left:0;
   bottom: 0;
   width: 100%;
-  text-align: center;
   color: #6c757d !important;
 }
+
+.find_info{
+  font-size:14px;
+  line-height:14px;
+  padding-top:18px;
+  color:#8e8e8e;
+}
+
+.find_info a{
+  font-size:14px;
+  line-height:14px;
+  display:inline-block;
+  text-decoration:none;
+  color:#8e8e8e
+}
+
