@@ -12,4 +12,4 @@ Casper_Chatting-with-API
 
 
 ---
-- bootstrap, node_modules 디렉토리는 사정상 올라가지 않았음 (21.02.05)
+- bootstrap, node_modules 제외 (21.02.05)
